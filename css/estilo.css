@@ -10,7 +10,7 @@ body{
 	width: 100%;
 	padding: 0px;
 	margin: 0px;
-	background-color: #ededed;
+	background-color: rgba(25, 183, 231, 0.137);
 	list-style: none;
 	text-align: center;
 	font-size: 24pt;
@@ -22,15 +22,16 @@ body{
 #menu li a{
 	padding: 2px 10px;
 	display: inline-block;
-	background-color: #ededed;
-	color: rgb(138, 180, 243);
+	background-color: rgba(107, 107, 110, 0.1);
+	color: rgb(235, 235, 235);
+	text-shadow: #6d6d6d;
 	text-decoration: none;
-	border-bottom: 3px solid #ededed;
+	border-bottom: 5px solid #b2bda5;
 }
-#menu ul li :hover{
-	background-color: #d6d6d6;
-	color: #6d6d6d;
-	border-bottom: 3px solid #EA0000;
+#menu li a:hover{
+	background-color: #d6d6d62c;
+	color: #9c9595;
+	border-bottom: 5px solid #190cc5;
 }
 #home{
 	color:#CCC;
