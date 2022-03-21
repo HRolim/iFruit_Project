@@ -48,7 +48,7 @@ body{
 		font-size: 16pt;
 		font-family:arial;
 		text-align:left;
-		width: 600px;
+		width: 595px;
 		text-shadow:2px 2px 2px rgb(27, 23, 23);
 }
 #texto2{
@@ -94,7 +94,7 @@ article{
 
 
 #photos{
-	margin-top: 40px;
+	margin-top: 60px;
 	margin-right: 40px;
 	margin-bottom: 50px;
 	border: rgba(107, 107, 110, 0.349);
