@@ -4,6 +4,9 @@
 #fotos{
     position: relative;
 }
+#legend{
+    text-align: center;
+}
 #album-fotos{
 
     width:100%;
