@@ -45,7 +45,7 @@
 }
 
 #album-fotos li#foto1{
-    background-image:url("../imagens/heitor.jpg");
+    background-image:url("../imagens/heitorF.jpg");
 	background-repeat: no-repeat;
 	background-position:50% 50%;
 	background-size:200px 200px;
@@ -58,7 +58,7 @@
 }
 
 #album-fotos li#foto2{
-    background-image:url("../imagens/jonatas.jpeg");
+    background-image:url("../imagens/heitorB.JPG");
 	background-repeat: no-repeat;
 	background-position:50% 50%;
 	background-size:200px 200px;
@@ -71,7 +71,7 @@
 }
 
 #album-fotos li#foto3{
-    background-image:url("../imagens/julio.jpeg");
+    background-image:url("../imagens/heitor.jpg");
 	background-repeat: no-repeat;
 	background-position:50% 50%;
 	background-size:200px 200px;
@@ -84,7 +84,7 @@
 }
 
 #album-fotos li#foto4{
-    background-image:url("../imagens/kaue.jpeg");
+    background-image:url("../imagens/heitors.jpg");
 	background-repeat: no-repeat;
 	background-position:50% 50%;
 	background-size:200px 200px;
@@ -97,7 +97,7 @@
 }
 
 #album-fotos li#foto5{
-    background-image:url("../imagens/matheus.jpeg");
+    background-image:url("../imagens/heitorD.jpg");
 	background-repeat: no-repeat;
 	background-position:50% 50%;
 	background-size:200px 200px;
@@ -110,7 +110,7 @@
 }
 
 #album-fotos li#foto6{
-    background-image:url("../imagens/vitoria.jpeg");
+    background-image:url("../imagens/heitorC.png");
 	background-repeat: no-repeat;
 	background-position:50% 50%;
 	background-size:200px 200px;
